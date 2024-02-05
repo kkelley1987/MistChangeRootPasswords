@@ -2,7 +2,7 @@ import requests
 import getpass
 
 #get some variables from user
-#maybe we build this part custom for each customer?  Will custom build it for ePlus!
+#maybe we build this part custom for each customer?
 print("Input your Organization ID")
 org_id = input()
 print("Input your API Key")
